@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97c9ae89183ca9940bb0f0a275c4e8a5, type: 3}
+  m_Name: SpGameOver
+  m_EditorClassIdentifier: Assembly-CSharp::EndingData
+  endingName: spGameOver
+  dialogues:
+  - speaker: 0
+    text: "\u2026\u2026\u9B54\u738B\u69D8"
+    face:
+      eye: {fileID: 6015766176129875119, guid: 56efb87fa4b1f8b47abf0bd56cb44cbb, type: 3}
+      mouth: {fileID: -4697684389437954579, guid: 5d636b38ba7883746b7572da6e02bd15, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 1
+    text: "\u3063\uFF01\uFF1F\u30CF\u30FC\u30B8\u30A7\u30B9\u2026\u2026\uFF1F\u3044\u3064\u304B\u3089\u305D\u3053\u306B\u2026\u2026"
+    face:
+      eye: {fileID: 683402615327509627, guid: 55b05b8c156d9b643bac2dfc44dc0689, type: 3}
+      mouth: {fileID: 5035928993336525301, guid: 43cde478ef360b04abf104370c0b47ff, type: 3}
+      deco: {fileID: 1885003711856960554, guid: d832664df4a81044c8c0f4111bde35f4, type: 3}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u9B54\u738B\u69D8\u306F\u304B\u3064\u3066\u79C1\u306B\u7D04\u675F\u3057\u3066\u304F\u3060\u3055\u308A\u307E\u3057\u305F\u3088\u306D"
+    face:
+      eye: {fileID: 5545752619652986929, guid: af2d19b17d1426241ac811e5dd0100d5, type: 3}
+      mouth: {fileID: 39662851386448069, guid: 1199930ccf4b475489b984cf4012310f, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u4EBA\u9593\u3069\u3082\u3092\u7686\u6BBA\u3057\u306B\u3059\u308B\u3001\u3068"
+    face:
+      eye: {fileID: 5148122948628019522, guid: 880c294971f6a5f47ae61151abdb2eb7, type: 3}
+      mouth: {fileID: 39662851386448069, guid: 1199930ccf4b475489b984cf4012310f, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u3042\u306E\u65E5\u306E\u8CB4\u65B9\u69D8\u306F\u79C1\u306B\u3068\u3063\u3066\u306E\u5149\u3067\u3057\u305F"
+    face:
+      eye: {fileID: 5545752619652986929, guid: af2d19b17d1426241ac811e5dd0100d5, type: 3}
+      mouth: {fileID: -2616019531537676843, guid: 24706c26b34e92a4ba7897671d732787, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u2026\u2026\u3067\u3059\u304C\u3001\u4ECA\u306E\u8CB4\u65B9\u306F\u3069\u3046\u3067\u3059\u304B\uFF1F"
+    face:
+      eye: {fileID: -1072001082340601695, guid: c0ade5e53885f6c468bea756ee504a88, type: 3}
+      mouth: {fileID: -4697684389437954579, guid: 5d636b38ba7883746b7572da6e02bd15, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u304B\u3064\u3066\u306E\u5A01\u53B3\u306A\u3069\u3069\u3053\u306B\u3082\u306A\u3044"
+    face:
+      eye: {fileID: -1072001082340601695, guid: c0ade5e53885f6c468bea756ee504a88, type: 3}
+      mouth: {fileID: 39662851386448069, guid: 1199930ccf4b475489b984cf4012310f, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u79C1\u304C\u656C\u611B\u3057\u3066\u3044\u305F\u9B54\u738B\u69D8\u306F\u3082\u3046\u3069\u3053\u306B\u3082\u3044\u306A\u3044"
+    face:
+      eye: {fileID: 5545752619652986929, guid: af2d19b17d1426241ac811e5dd0100d5, type: 3}
+      mouth: {fileID: 39662851386448069, guid: 1199930ccf4b475489b984cf4012310f, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u3042\u306E\u65E5\u3001\u8CB4\u65B9\u306B\u6551\u308F\u308C\u3066\u304B\u3089\u3001\u79C1\u306F\u305A\u3063\u3068\u4EBA\u9593\u3069\u3082\u3092\u6EC5\u307C\u3059\u3053\u3068\u3060\u3051\u3092\u8003\u3048\u3066\u304D\u305F"
+    face:
+      eye: {fileID: -444883449015366542, guid: 79b1f5ab990314c4bb624a30d0509a8f, type: 3}
+      mouth: {fileID: 39662851386448069, guid: 1199930ccf4b475489b984cf4012310f, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u305D\u308C\u3060\u3051\u304C\u4FFA\u306E\u751F\u304D\u308B\u610F\u5473\u3060\u3063\u305F\uFF01"
+    face:
+      eye: {fileID: -1072001082340601695, guid: c0ade5e53885f6c468bea756ee504a88, type: 3}
+      mouth: {fileID: -5518012332198458476, guid: 714194d436e38bc4a950590b8a65e0ae, type: 3}
+      deco: {fileID: 5897245950534321222, guid: b86d670d2d28b9f42af60fc04b530405, type: 3}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u306A\u306E\u306B\u8CB4\u65B9\u306F\uFF01 "
+    face:
+      eye: {fileID: -1072001082340601695, guid: c0ade5e53885f6c468bea756ee504a88, type: 3}
+      mouth: {fileID: -5518012332198458476, guid: 714194d436e38bc4a950590b8a65e0ae, type: 3}
+      deco: {fileID: 5897245950534321222, guid: b86d670d2d28b9f42af60fc04b530405, type: 3}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u305D\u308C\u3092\u88CF\u5207\u3063\u305F\u3002\u4ECA\u307E\u3067\u305A\u3063\u3068\u9A19\u3057\u3066\u3044\u305F\u3093\u3067\u3059\u304B\u2026\u2026\u3042\u306E\u8A00\u8449\u306F\u5168\u90E8\u5618\u3060\u3063\u305F\u3093\u3067\u3059\u304B\u2026\u2026\uFF1F"
+    face:
+      eye: {fileID: 6015766176129875119, guid: 56efb87fa4b1f8b47abf0bd56cb44cbb, type: 3}
+      mouth: {fileID: -4697684389437954579, guid: 5d636b38ba7883746b7572da6e02bd15, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 1
+    text: "\u2026\u2026\u3063\u3001\u305D\u308C\u306F\u2026\u2026\u2026\u2026"
+    face:
+      eye: {fileID: -8841383410735724184, guid: b071d3371f75dd74a91cf0b1985fa823, type: 3}
+      mouth: {fileID: 3051296416116236655, guid: eb578a28658e48c41ac54b48359f7b87, type: 3}
+      deco: {fileID: 1885003711856960554, guid: d832664df4a81044c8c0f4111bde35f4, type: 3}
+    isEnter: 0
+    isExit: 0
+  - speaker: 1
+    text: "\u2026\u2026\u3000\u2026\u2026\u3000\u2026\u2026"
+    face:
+      eye: {fileID: 683402615327509627, guid: 55b05b8c156d9b643bac2dfc44dc0689, type: 3}
+      mouth: {fileID: 2769991944876818550, guid: e833c09e33c51914bb387574ebb8b122, type: 3}
+      deco: {fileID: 1885003711856960554, guid: d832664df4a81044c8c0f4111bde35f4, type: 3}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u2026\u2026\u8A31\u305B\u306A\u3044"
+    face:
+      eye: {fileID: 2611295862693990050, guid: 00140ce928c0db247831c806d69edbd8, type: 3}
+      mouth: {fileID: -4697684389437954579, guid: 5d636b38ba7883746b7572da6e02bd15, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u8A31\u305B\u306A\u3044\u8A31\u305B\u306A\u3044\u8A31\u305B\u306A\u3044\u8A31\u305B\u306A\u3044\u8A31\u305B\u306A\u3044\u8A31\u305B\u306A\u3044\u8A31\u3055\u306A\u3044\u8A31\u3055\u306A\u3044\u8A31\u3055\u306A\u3044\u8A31\u3055\u306A\u3044\u8A31\u3055\u306A\u3044\u8A31\u3055\u306A\u3044\u8A31\u3055\u306A\u3044\u8A31\u3055\u306A\u3044"
+    face:
+      eye: {fileID: 2611295862693990050, guid: 00140ce928c0db247831c806d69edbd8, type: 3}
+      mouth: {fileID: 39662851386448069, guid: 1199930ccf4b475489b984cf4012310f, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u2026\u2026\u3000\u2026\u2026\u3000\u2026\u2026\u3060\u304B\u3089"
+    face:
+      eye: {fileID: 5545752619652986929, guid: af2d19b17d1426241ac811e5dd0100d5, type: 3}
+      mouth: {fileID: -4697684389437954579, guid: 5d636b38ba7883746b7572da6e02bd15, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u6B7B\u3093\u3067\r\n"
+    face:
+      eye: {fileID: 2611295862693990050, guid: 00140ce928c0db247831c806d69edbd8, type: 3}
+      mouth: {fileID: -2616019531537676843, guid: 24706c26b34e92a4ba7897671d732787, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0
+  - speaker: 0
+    text: "\u6B7B\u3093\u3067\r\n"
+    face:
+      eye: {fileID: 2611295862693990050, guid: 00140ce928c0db247831c806d69edbd8, type: 3}
+      mouth: {fileID: -2616019531537676843, guid: 24706c26b34e92a4ba7897671d732787, type: 3}
+      deco: {fileID: 0}
+    isEnter: 0
+    isExit: 0

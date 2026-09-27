@@ -1,0 +1,41 @@
+# ==========================================
+# Unity標準の不要ファイル
+# ==========================================
+[L.l]ibrary/
+[T.t]emp/
+[O.o]bj/
+[B.b]uild/
+[B.b]uilds/
+[L.l]ogs/
+[U.u]ser[S.s]ettings/
+[M.m]emory[C.c]aptures/
+
+# Visual Studio / VS Code / Rider 等の設定ファイル
+.vs/
+.idea/
+*.csproj
+*.sln
+*.unityproj
+
+# OS固有の不要ファイル
+.DS_Store
+Thumbs.db
+
+Assets/Fonts/
+Assets/Images/hukidasi/
+Assets/Images/paramater/
+Assets/Images/Black-Castle-Throne-Room3.png
+Assets/Sounds/
+
+Assets/Fonts.meta
+Assets/Images/hukidasi.meta
+Assets/Images/paramater.meta
+Assets/Images/Black-Castle-Throne-Room3.png.meta
+Assets/Sounds.meta
+
+
+# ビルド出力フォルダ
+WebGLRelease_gz_ver.0/
+WebGLRelease_gz_ver.1/
+WebGLRelease_ver.0/
+WindowsRelease_ver.0/
